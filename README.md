@@ -1,7 +1,7 @@
 
 # Resume Screener & Job Matcher
 
-A Streamlit app that analyzes the compatibility of a resume against a job description using the Groq API powered by the Gemma2-9b-it language model.
+A Streamlit app that analyzes the compatibility of a resume against a job description using the Groq API powered by the mistral-saba-24b language model.
 
 ---
 
