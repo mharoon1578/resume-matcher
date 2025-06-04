@@ -52,7 +52,7 @@ if st.button("Check Compatibility"):
             llm = ChatGroq(
                 temperature=0,
                 groq_api_key=GROQ_API_KEY,
-                model_name="gemma2-9b-it"
+                model_name="mistral-saba-24b"
             )
             chain = LLMChain(llm=llm, prompt=resume_screening_template)
 
